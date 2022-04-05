@@ -77,4 +77,4 @@ Vladislav Glupak - [Linkedin](https://www.linkedin.com/in/vladislav-glupak/)
 
 ## License
 
-It is an Open-source analysis.
+MIT
