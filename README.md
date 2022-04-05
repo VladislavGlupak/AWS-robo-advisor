@@ -57,11 +57,11 @@ High: “20% bonds (AGG), 80% equities (SPY)”
 
 ## Utterances
 
-[Utterances](Images/utterances.JPG)
+![Utterances](Images/utterances.JPG)
 
 ## Slots
 
-[Slots](Images/slots.JPG)
+![Slots](Images/slots.JPG)
 
 ## Test events
 
